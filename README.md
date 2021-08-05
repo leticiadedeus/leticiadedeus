@@ -6,9 +6,7 @@
 
 ##### 📢 See what I am doing:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiadedeus&show-icons=true)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=leticiadedeus&show-icons=true) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiadedeus&show-icons=true) ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=leticiadedeus&show-icons=true) 
 
 
 <!--
