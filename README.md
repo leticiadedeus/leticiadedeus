@@ -1,4 +1,4 @@
-### Hey there, here's :collision: Leticia
+### Hey there, here's :collision: Leticia, my pronouns are she/her | ela/dela 
 #### I am a begginer developer trying to learn everyday
 
 ##### 🔍 Find me: 
