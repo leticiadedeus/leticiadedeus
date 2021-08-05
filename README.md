@@ -1,8 +1,7 @@
 ### Hey there, here's :collision: Leticia
 #### I am a begginer developer trying to learn everyday
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiadedeus&show
--icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiadedeus&show-icons=true)
 
 <!--
 **leticiadedeus/leticiadedeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
