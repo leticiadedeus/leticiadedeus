@@ -3,20 +3,10 @@
 #### My main stack is Node and AWS
 When I build back-end services, I can do it end-to-end, starting from drawing its architecture to deploy it in production environments. To make it possible, I've been using some interesting technologies:  
   
-🌱 AWS Lambda  
-🌱 AWS SQS  
-🌱 AWS SNS  
-🌱 API Gateway  
-⚡ Postgres  
-⚡ MySQL  
-⚡ AWS RDS  
-⚡ DynamoDB  
-🛫 Terraform  
-🛫 Github Actions  
-🛫 AWS Pipelines    
-🛫 AWS CodeDeploy    
+🌱 AWS Lambda | AWS SQS | AWS SNS | API Gateway  
+⚡ Postgres | MySQL | AWS RDS | DynamoDB  
+🛫 Terraform | Github Actions | AWS Pipelines | AWS CodeDeploy    
 👽 and much more...
-
 
 ##### 🔍 Find me to know more: 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leticiadedeus/)
