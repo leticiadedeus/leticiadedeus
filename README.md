@@ -2,18 +2,18 @@
 #### I am a back-end engineer
 #### My main stack is Node and AWS
 When I build back-end services, I can do it end-to-end, starting from drawing its architecture to deploy it in production environments. To make it possible, I've been using some interesting technologies:  
-🌱 AWS Lambda
-🌱 AWS SQS
-🌱 AWS SNS
+🌱 AWS Lambda  
+🌱 AWS SQS  
+🌱 AWS SNS  
 🌱 API Gateway  
-⚡ Postgres
-⚡ MySQL
-⚡ AWS RDS
+⚡ Postgres  
+⚡ MySQL  
+⚡ AWS RDS  
 ⚡ DynamoDB  
-🛫 Terraform
-🛫 Github Actions
-🛫 AWS Pipelines
-🛫 AWS CodeDeploy  
+🛫 Terraform  
+🛫 Github Actions  
+🛫 AWS Pipelines    
+🛫 AWS CodeDeploy    
 👽 and much more...
 
 
